@@ -1,0 +1,31 @@
+{
+  "name": "BodhiTeaTestnet",
+  "version": "1.0.2",
+  "description": "A project for testing Bodhi and TEA testnets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/B0DH1i/Bodhi-Tea.git"
+  },
+  "keywords": [
+    "Compare",
+    "TEA",
+    "testnet",
+    "chain",
+    "crypto"
+  ],
+  "dependencies": {
+    "express": "latest",
+    "ejs": "latest"
+  },
+  "author": "Your Name or Organization",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B0DH1i/Bodhi-Tea/issues"
+  },
+  "homepage": "https://github.com/B0DH1i/Bodhi-Tea/blob/main/README.md"
+}
+
